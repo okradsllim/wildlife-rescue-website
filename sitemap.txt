@@ -1,0 +1,6 @@
+https://www.exampledomain.com/index.html
+https://www.exampledomain.com/about.html
+https://www.exampledomain.com/partnership.html
+https://www.exampledomain.com/gallery.html
+https://www.exampledomain.com/faqs.html
+https://www.exampledomain.com/contact.html
