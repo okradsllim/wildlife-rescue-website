@@ -1,13 +1,8 @@
-```
 # Wildlife Rescue Website
 
 ## Project Overview
 
 This repository hosts the code for a fictional wildlife rescue organization website. The site was developed as part of a college web design class to demonstrate proficiency in HTML, CSS, and JavaScript. The website aims to educate visitors about the organization, showcase partnership opportunities, display a gallery of rescued animals, and provide contact information.
-
-![Website Preview](https://okradsllim.github.io/wildlife-rescue-website/screenshot.jpg)
-
-> **Note:** Replace the above link with an actual screenshot of your website's homepage.
 
 ## Technologies Used
 
@@ -29,7 +24,6 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/okradsllim/wildlife-rescue-website.git
-   ```
 2. Navigate to the project directory:
    ```bash
    cd wildlife-rescue-website
