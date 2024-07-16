@@ -4,6 +4,8 @@
 
 This repository hosts the code for a fictional wildlife rescue organization website. The site was developed as part of a college web design class to demonstrate proficiency in HTML, CSS, and JavaScript. The website aims to educate visitors about the organization, showcase partnership opportunities, display a gallery of rescued animals, and provide contact information.
 
+Visit the [Wildlife Rescue Website](https://okradsllim.github.io/wildlife-rescue-website/).
+
 ## Technologies Used
 
 - **HTML** - For structuring the web content.
