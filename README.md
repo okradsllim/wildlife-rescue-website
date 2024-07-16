@@ -1,4 +1,4 @@
-```markdown
+```
 # Wildlife Rescue Website
 
 ## Project Overview
